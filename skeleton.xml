@@ -4,5 +4,7 @@
     <remote name="sf" fetch="git://git.code.sf.net/p" />
     <project groups="default" remote="github" name="rpodgorny/unionfs-fuse.git" path=".cross-dev/3rdparty/unionfs-fuse" revision="8176353f9c6ac04eb72cb8cea166e8c2c229ffa9" />
     <project groups="default" remote="github" name="fsquillace/junest.git" path=".cross-dev/3rdparty/junest" revision="master" />
+    <project groups="default" remote="github" name="cross-dev/de-scripts.git" path=".cross-dev/de-scripts" revision="master" />
+    <project groups="default" remote="github" name="cross-dev/sanitizer.git" path=".cross-dev/sanitizer" revision="master" />
     <project groups="default" remote="sf" name="fuse/fuse.git" path=".cross-dev/3rdparty/fuse-fuse" revision="6adcb719a933a31013c73fda8e0ccb0e13b45e58" />
 </manifest>
