@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="github" fetch="ssh://git@github.com" />
+    <project groups="default" remote="github" name="experiment-orange/product.git" path=".cross-dev/product" revision="master" />
+    <include name="skeleton.xml" />
+</manifest>
+
