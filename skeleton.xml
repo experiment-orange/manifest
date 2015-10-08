@@ -3,10 +3,10 @@
     <remote name="ymorin" fetch="git://ymorin.is-a-geek.org" />
     <remote name="github" fetch="ssh://git@github.com" />
     <remote name="sf" fetch="git://git.code.sf.net/p" />
-    <project groups="default" remote="github" name="rpodgorny/unionfs-fuse.git" path=".cross-dev/3rdparty/unionfs-fuse" revision="8176353f9c6ac04eb72cb8cea166e8c2c229ffa9" />
+    <project groups="tools" remote="sf" name="fuse/fuse.git" path=".cross-dev/3rdparty/fuse-fuse" revision="6adcb719a933a31013c73fda8e0ccb0e13b45e58" />
+    <project groups="tools" remote="ymorin" name="kconfig-frontends" path=".cross-dev/3rdparty/kconfig-frontends" revision="75d35b172fc0f7b6620dd659af41f2ce04edc4e6" />
+    <project groups="tools" remote="github" name="rpodgorny/unionfs-fuse.git" path=".cross-dev/3rdparty/unionfs-fuse" revision="8176353f9c6ac04eb72cb8cea166e8c2c229ffa9" />
     <project groups="default" remote="github" name="fsquillace/junest.git" path=".cross-dev/3rdparty/junest" revision="master" />
     <project groups="default" remote="github" name="cross-dev/de-scripts.git" path=".cross-dev/de-scripts" revision="master" />
     <project groups="default" remote="github" name="cross-dev/sanitizer.git" path=".cross-dev/sanitizer" revision="master" />
-    <project groups="default" remote="sf" name="fuse/fuse.git" path=".cross-dev/3rdparty/fuse-fuse" revision="6adcb719a933a31013c73fda8e0ccb0e13b45e58" />
-    <project groups="default" remote="ymorin" name="kconfig-frontends" path=".cross-dev/3rdparty/kconfig-frontends" revision="75d35b172fc0f7b6620dd659af41f2ce04edc4e6" />
 </manifest>
