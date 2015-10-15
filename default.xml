@@ -2,6 +2,7 @@
 <manifest>
     <remote name="github" fetch="ssh://git@github.com" />
     <project groups="default" remote="github" name="experiment-orange/product.git" path=".cross-dev/product" revision="master" />
+    <project groups="default" remote="github" name="experiment-orange/freertos-config.git" path="freertos-config" revision="master" />
     <include name="skeleton.xml" />
 </manifest>
 
