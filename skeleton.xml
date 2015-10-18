@@ -8,6 +8,6 @@
     <project groups="tools" remote="github" name="cross-dev/contrib.git" path=".cross-dev/contrib" revision="master" />
     <project groups="default" remote="github" name="cross-dev/junest.git" path=".cross-dev/3rdparty/junest" revision="master" />
     <project groups="default" remote="github" name="cross-dev/de-scripts.git" path=".cross-dev/de-scripts" revision="master">
-        <linkfile src="PKGBUILD" dst="PKGBUILD" />
+        <linkfile src="PKGBUILD" dest="PKGBUILD" />
     </project>
 </manifest>
