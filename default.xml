@@ -4,6 +4,7 @@
     <project groups="default" remote="github" name="experiment-orange/product.git" path=".cross-dev/product" revision="master" />
     <project groups="default" remote="github" name="experiment-orange/freertos-config.git" path="freertos-config" revision="master" />
     <project groups="default" remote="github" name="cjlano/freertos.git" path="freertos-src" revision="6bd76d7b2095feb7ef7d4ced9f8d485bc8a5202c" />
+    <project groups="default" remote="github" name="experiment-orange/freertos.git" path="freertos" revision="master" />
     <include name="skeleton.xml" />
 </manifest>
 
