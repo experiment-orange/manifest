@@ -5,6 +5,7 @@
     <remote name="sf" fetch="git://git.code.sf.net/p" />
     <project groups="tools" remote="sf" name="fuse/fuse.git" path=".cross-dev/3rdparty/fuse-fuse" revision="6adcb719a933a31013c73fda8e0ccb0e13b45e58" />
     <project groups="tools" remote="github" name="rpodgorny/unionfs-fuse.git" path=".cross-dev/3rdparty/unionfs-fuse" revision="8176353f9c6ac04eb72cb8cea166e8c2c229ffa9" />
+    <project groups="tools" remote="github" name="rudimeier/bash_ini_parser.git" path=".cross-dev/3rdparty/bash_ini_parser" revision="8fb95e3b335823bc85604fd06c32b0d25f2854c5" />
     <project groups="tools" remote="github" name="cross-dev/contrib.git" path=".cross-dev/contrib" revision="master" />
     <project groups="default" remote="github" name="fsquillace/junest.git" path=".cross-dev/3rdparty/junest" revision="master" />
     <project groups="default" remote="github" name="cross-dev/de-scripts.git" path=".cross-dev/de-scripts" revision="master">
